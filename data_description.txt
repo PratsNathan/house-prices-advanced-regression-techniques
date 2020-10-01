@@ -251,7 +251,7 @@ MasVnrArea: Masonry veneer area in square feet
 
 ExterQual: Evaluates the quality of the material on the exterior 
 		
-       Ex	Excellent
+       Ex	Excellent 
        Gd	Good
        TA	Average/Typical
        Fa	Fair
